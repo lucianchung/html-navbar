@@ -1,4 +1,4 @@
-# html-navbar
+# HTML Navbar
 Frontend Fundamentals Checkpoint 7 - HTML Basics
 
 ![html-navbar screenshot](https://github.com/lucianchung/lucianchung.github.io/blob/master/images/github-screenshots/html-navbar.png?raw=true)
